@@ -4,7 +4,7 @@ AI-powered adaptive honeypot system for cyber threat deception and real-time mon
 
 Live Demo
 
-[Paste your AI Studio public app link here](https://the-honeypot-195010458417.asia-southeast1.run.app)
+https://the-honeypot-195010458417.asia-southeast1.run.app
 
 Project Overview
 
