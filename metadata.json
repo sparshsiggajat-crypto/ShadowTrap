@@ -1,0 +1,6 @@
+{
+  "name": "ShadowTrap",
+  "description": "AI-powered adaptive honeypot system for cyber threat deception and real-time monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
