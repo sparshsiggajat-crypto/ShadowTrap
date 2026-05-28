@@ -78,4 +78,8 @@
 
 ---
 
+App Demo Link
+https://the-honeypot-195010458417.asia-southeast1.run.app
+
+---
 *Coded with precision for ShadowTrap hackathon presentation. All components complied with strict type safety.*
