@@ -57,53 +57,10 @@
 - **State Architecture**: Standard Node.js `tsx` running standalone ESM-CJS bundle configurations (using `esbuild` for ultra-fast container boots)
 - **Vector Graphics**: `lucide-react` icons
 
----
-
-## 🏃‍♂️ Demo Workflow (For Judges & Presenters)
-
-To demonstrate the full power of **ShadowTrap** within **3 minutes**, execute this straightforward presentation flow:
-
-1. **Gate Breach Attempt**: On the main Secure Portal Gate, click the **"SQL Injection (Auth Bypass)"** preset. Click **Launch Attack**. Notice the screen transition through security-verification animations before gracefully sending you to the administration panel.
-2. **Deception Check**: You are now in the *Diverted Hacker Mode*! Look at the top flashing banner warning you of an isolated sandbox. Open the database tabs—these are completely cooked, harmless mock records generated to waste the hack's time!
-3. **Control Calibration**: Use the **Active Deception Posture** card on the dashboard to change the target spoof mode. Toggle to **Chaos Mode** or choose **Infinite Loading Stall** to see how the system's deceptive traits adapt immediately.
-4. **Trigger Live Fire**: Choose the **Database Destruction (DROP TABLE)** preset on the Cyberattack Simulator. Fire it and instantly see the *SIEM Intercept Stream* capture the attempt, classify the threat, and show you exactly what fake response was fed to the malicious computer.
 
 ---
 
-## 🚀 Installation & Setup Steps
 
-Run this professional honeynet platform locally in less than 2 minutes:
-
-### Prerequisites
-- [Node.js](https://nodejs.org/) (v18 or higher recommended)
-- `npm` or `yarn` package manager
-
-### 1. Clone & Initialize
-```bash
-# Navigate to the project root directory
-cd ShadowTrap
-
-# Install all pre-configured high-performance dependencies
-npm install
-```
-
-### 2. Run the Development Server
-```bash
-# Start the full-stack server under hot reloading TSX execution
-npm run dev
-```
-ShadowTrap will bind directly to **Port 3000**. Navigate to `http://localhost:3000` in your web browser to initialize the application.
-
-### 3. Build & Production Assembly
-```bash
-# Compile client assets and bundle Express backend routes via esbuild
-npm run build
-
-# Start the optimized production service
-npm run start
-```
-
----
 
 ## 🔮 Future Scope
 
